@@ -188,7 +188,7 @@ main {
   transform: translateX(-50%);
   height: 10rem;
   box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.2);
-  font-size: 30px;
+  font-size: 25px;
   background: transparent;
   border: 1px solid white;
   box-shadow: 0px 2px 0 white, 2px 4px 6px #eee;
@@ -196,6 +196,7 @@ main {
   letter-spacing: 1px;
   -webkit-transition: all 150ms linear;
   transition: all 150ms linear;
+  padding: 20px;
 
   text-align: center;
   color: #fff;

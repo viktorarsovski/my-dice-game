@@ -26,6 +26,7 @@ body {
 
 /* LAYOUT */
 main {
+  width: 100%;
   position: relative;
   width: 100rem;
   height: 60rem;
@@ -230,6 +231,17 @@ main {
   right: 2rem;
   font-size: 5rem;
   color: #333;
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+.close-modal:hover {
+  position: absolute;
+  top: 1.2rem;
+  right: 2rem;
+  font-size: 5rem;
+  color: lightskyblue;
   cursor: pointer;
   border: none;
   background: none;
